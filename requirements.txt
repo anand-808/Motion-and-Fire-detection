@@ -1,0 +1,8 @@
+ultralytics==8.0.136
+streamlit==1.30.0
+py-cpuinfo
+opencv-python~=4.10.0.82
+Pillow~=10.0.1
+twilio~=9.2.2
+imutils==0.5.4
+pygame==2.6.0
