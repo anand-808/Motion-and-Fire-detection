@@ -3,13 +3,9 @@
 
 # Automated Smart Home
 
-This project implements an Automated Smart Home system with advanced features such as Face Recognition, Motion Detection, and Fire Detection. The system leverages AI, deep learning, and computer vision technologies to enhance home security and safety.
+This project implements an Automated Smart Home system with advanced features such as Motion Detection, and Fire Detection. The system leverages AI, deep learning, and computer vision technologies to enhance home security and safety.
 
 ## Features
-
-### Face Recognition
-- Enhances security by recognizing authorized individuals.
-- Uses OpenCV for real-time face recognition.
 
 ### Motion Detection
 - Provides real-time alerts when motion is detected.
