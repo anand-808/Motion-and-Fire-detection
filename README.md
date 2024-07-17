@@ -36,7 +36,7 @@ This project implements an Automated Smart Home system with advanced features su
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/automated-smart-home.git
+   git clone https://github.com/anand-808/automated-smart-home.git
    cd automated-smart-home
    ```
 
