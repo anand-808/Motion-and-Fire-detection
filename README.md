@@ -22,8 +22,8 @@ This project implements an Automated Smart Home system with advanced features su
 
 ## File Descriptions
 
-- **combinedcode.py**: Main script that combines face recognition, motion detection, and fire detection functionalities.
-- **multipledevice.py**: Script to connect multiple devices as cameras using the IPWebcam app.
+- **combinedcode.py**: Main script that combines motion detection and fire detection functionalities.
+- **multipledevice.py**: Fire detection script to connect multiple devices as cameras using the IPWebcam app.
 - **buzzer.mp3**: Sound file that plays when motion is detected.
 
 
