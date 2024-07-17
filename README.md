@@ -70,10 +70,6 @@ This project implements an Automated Smart Home system with advanced features su
 
 ## Usage
 
-### Face Recognition
-
-- The system will recognize faces in real-time and grant or deny access based on the recognized faces.
-
 ### Motion Detection
 
 - Upon detecting motion, the system will send a real-time alert via WhatsApp with an image of the detected motion.
